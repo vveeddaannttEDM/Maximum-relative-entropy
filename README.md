@@ -59,7 +59,3 @@ Results saved to 'results/posterior_distribution.csv'
 ## License
 
 MIT License
-
----
-
-Let me know if you'd like any changes or additional features! 🚀
